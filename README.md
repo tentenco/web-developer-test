@@ -24,9 +24,9 @@ We're going to send an invitation for Zeplin mockup, please pay attention to the
 ## Procedure
 You will have 3 days turn over time to work on this. 
 
-2. Create a git repo in Github
-3. Update the files to your git repo
-4. Send a notification to me thru email: **clark.young@tenten.co** with the repository's link,
+1. Create a git repo in Github
+2. Update the files to your git repo
+3. Send a notification to me thru email: **clark.young@tenten.co** with the repository's link,
 
 ⭐️ Some notes to consider as bonus:
 - Best practice of commit messages
